@@ -91,7 +91,7 @@ The Airline Database contains several interconnected tables representing various
 - Cross-table data analysis and relationship mapping
 
 ## SQL Query File
-[Download SQL Queries](path/to/your/sql_file.sql)
+[Download SQL Queries](https://github.com/shinilkumars/AirlineDB-SQL-Analytics-Capstone-Project/raw/main/Airline%20Database%20SQL%20Analytics.pdf )
 
 Click the link above to download the SQL file containing all the queries used in this project. This file includes detailed comments explaining each query's purpose and functionality, serving as a comprehensive reference for the analytical techniques employed in this capstone project.
 
